@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+  <Document>
+    <Schema id="schema0" name="schema0">
+      <SimpleField name="Description" type="string"/>
+      <SimpleField name="pdfmaps_photos" type="string">
+        <displayName>Photos</displayName>
+      </SimpleField>
+      <SimpleField name="Photo Name" type="string"/>
+      <SimpleField name="Photo Date" type="string"/>
+      <SimpleField name="Photo Timestamp" type="string"/>
+      <SimpleField name="Photo Location" type="string"/>
+      <SimpleField name="Photo Altitude" type="string"/>
+      <SimpleField name="Photo Orientation" type="string"/>
+      <SimpleField name="Device Type" type="string"/>
+    </Schema>
+    
+    <Folder>
+      <name>Lapisan 1</name>
+      <Placemark>
+        <name>Titik 1</name>
+        <description>Deskripsi untuk Titik 1</description>
+        <Point>
+          <coordinates>109.58941757080973,-7.169707200800133,0</coordinates>
+        </Point>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Deskripsi</SimpleData>
+            <SimpleData name="pdfmaps_photos">Link Foto</SimpleData>
+            <SimpleData name="Photo Name">Nama Foto</SimpleData>
+            <SimpleData name="Photo Date">2024-10-03</SimpleData>
+            <SimpleData name="Photo Timestamp">2024-10-03T12:00:00Z</SimpleData>
+            <SimpleData name="Photo Location">Lokasi Foto</SimpleData>
+            <SimpleData name="Photo Altitude">100</SimpleData>
+            <SimpleData name="Photo Orientation">Utara</SimpleData>
+            <SimpleData name="Device Type">Kamera</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+    
+    <Folder>
+      <name>Perpustakaan Foto</name>
+      <Placemark>
+        <name>Titik 2</name>
+        <description>Deskripsi untuk Titik 2</description>
+        <Point>
+          <coordinates>109.59041757080973,-7.170707200800133,0</coordinates>
+        </Point>
+        <ExtendedData>
+          <SchemaData schemaUrl="#schema0">
+            <SimpleData name="Description">Deskripsi</SimpleData>
+            <SimpleData name="pdfmaps_photos">Link Foto</SimpleData>
+            <SimpleData name="Photo Name">Nama Foto</SimpleData>
+            <SimpleData name="Photo Date">2024-10-03</SimpleData>
+            <SimpleData name="Photo Timestamp">2024-10-03T12:00:00Z</SimpleData>
+            <SimpleData name="Photo Location">Lokasi Foto</SimpleData>
+            <SimpleData name="Photo Altitude">200</SimpleData>
+            <SimpleData name="Photo Orientation">Selatan</SimpleData>
+            <SimpleData name="Device Type">Kamera</SimpleData>
+          </SchemaData>
+        </ExtendedData>
+      </Placemark>
+    </Folder>
+
+    <Style id="style0">
+      <IconStyle>
+        <color>7f2e80ff</color>
+        <Icon>
+          <href>http://download.avenza.com/images/pdfmaps_icons/red_pin.png</href>
+        </Icon>
+        <hotSpot x="0.5" xunits="fraction" y="0.5" yunits="fraction"/>
+      </IconStyle>
+      <LineStyle>
+        <color>ff2e80ff</color>
+        <width>3</width>
+      </LineStyle>
+      <PolyStyle>
+        <color>7f2e80ff</color>
+      </PolyStyle>
+    </Style>
+  </Document>
+</kml>
