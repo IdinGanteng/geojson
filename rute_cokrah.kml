@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Line_route_sab" id="Line_route_sab">
+	<SimpleField name="Created Date" type="string"></SimpleField>
+	<SimpleField name="Created User" type="string"></SimpleField>
+	<SimpleField name="Last Edited Date" type="string"></SimpleField>
+	<SimpleField name="Last Edited User" type="string"></SimpleField>
+	<SimpleField name="Note Type" type="int"></SimpleField>
+	<SimpleField name="Shape Length" type="string"></SimpleField>
+</Schema>
+<Folder><name>Line_route_sab</name>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Line_route_sab">
+		<SimpleData name="Created Date">10/26/2024 2:06:29 PM</SimpleData>
+		<SimpleData name="Created User">ACER</SimpleData>
+		<SimpleData name="Last Edited Date">10/26/2024 2:06:29 PM</SimpleData>
+		<SimpleData name="Last Edited User">ACER</SimpleData>
+		<SimpleData name="Note Type">0</SimpleData>
+		<SimpleData name="Shape Length">0.004943</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>109.592386009,-7.16543449199997 109.595326205,-7.16146082099993</coordinates></LineString></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
