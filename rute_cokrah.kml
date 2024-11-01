@@ -13,6 +13,90 @@
   <Placemark>
 	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
 	<ExtendedData><SchemaData schemaUrl="#Line_route_sab">
+		<SimpleData name="Created Date">10/26/2024 11:03:20 AM</SimpleData>
+		<SimpleData name="Created User">ACER</SimpleData>
+		<SimpleData name="Last Edited Date">10/26/2024 11:03:20 AM</SimpleData>
+		<SimpleData name="Last Edited User">ACER</SimpleData>
+		<SimpleData name="Note Type">0</SimpleData>
+		<SimpleData name="Shape Length">0.001672</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>109.584921793,-7.16785407099997 109.584936063,-7.1678497899999 109.584952901,-7.16783723199995 109.58497345,-7.16781696799995 109.584986405,-7.1677949799999 109.585003239,-7.16777838 109.585052613,-7.16767451799996 109.585101221,-7.16768700399996 109.585131544,-7.16765311299997 109.585131099,-7.16769636899994 109.585013817,-7.16783371799994 109.585086951,-7.16788500099995 109.585107723,-7.16786307499996 109.585182192,-7.1679046199999 109.585328385,-7.16807628899994 109.585182192,-7.1679046199999 109.585222561,-7.16787169799994 109.585304476,-7.16788424 109.585330344,-7.16782153 109.585367186,-7.16784387 109.585415395,-7.16785366799996 109.585462036,-7.16785758799995 109.585503189,-7.16785288499995 109.585454589,-7.16782427299995 109.585449494,-7.16779683699997</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Line_route_sab">
+		<SimpleData name="Created Date">10/26/2024 11:07:05 AM</SimpleData>
+		<SimpleData name="Created User">ACER</SimpleData>
+		<SimpleData name="Last Edited Date">10/26/2024 11:07:05 AM</SimpleData>
+		<SimpleData name="Last Edited User">ACER</SimpleData>
+		<SimpleData name="Note Type">0</SimpleData>
+		<SimpleData name="Shape Length">0.001645</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>109.585059071,-7.16848509199997 109.585131277,-7.16840089799996 109.585116721,-7.16840032799996 109.585067347,-7.16840261099998 109.585116721,-7.16840032799996 109.585149543,-7.16830557499998 109.585245723,-7.16831185299998 109.585262847,-7.16832954799997 109.585482034,-7.16825477299994 109.585476041,-7.16821795699997 109.585824835,-7.16820948599997 109.585825164,-7.1681924399999 109.585845037,-7.16817268399996 109.585962105,-7.16813634299996 109.586006699,-7.16817466599997 109.586219914,-7.16807084599998 109.586270778,-7.16796423899996</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Line_route_sab">
+		<SimpleData name="Created Date">10/26/2024 11:09:40 AM</SimpleData>
+		<SimpleData name="Created User">ACER</SimpleData>
+		<SimpleData name="Last Edited Date">10/26/2024 11:09:40 AM</SimpleData>
+		<SimpleData name="Last Edited User">ACER</SimpleData>
+		<SimpleData name="Note Type">0</SimpleData>
+		<SimpleData name="Shape Length">0.000285</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>109.585017384,-7.16845000499995 109.585007574,-7.16836973599993 109.585034776,-7.1683594799999 109.585026749,-7.16831934499993 109.585017384,-7.16822703599996 109.584997317,-7.16819046899997</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Line_route_sab">
+		<SimpleData name="Created Date">10/26/2024 11:11:49 AM</SimpleData>
+		<SimpleData name="Created User">ACER</SimpleData>
+		<SimpleData name="Last Edited Date">10/26/2024 11:11:49 AM</SimpleData>
+		<SimpleData name="Last Edited User">ACER</SimpleData>
+		<SimpleData name="Note Type">0</SimpleData>
+		<SimpleData name="Shape Length">0.000846</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>109.584581497,-7.16868443099997 109.584789102,-7.16871872499996 109.584843165,-7.16858776899994 109.584846301,-7.16856895599994 109.584832626,-7.16853699099994 109.584879143,-7.16829660199994 109.58489464,-7.16822622799998 109.584996871,-7.16822926599997 109.585017384,-7.16822703599996</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Line_route_sab">
+		<SimpleData name="Created Date">10/26/2024 12:14:16 PM</SimpleData>
+		<SimpleData name="Created User">ACER</SimpleData>
+		<SimpleData name="Last Edited Date">10/26/2024 12:14:16 PM</SimpleData>
+		<SimpleData name="Last Edited User">ACER</SimpleData>
+		<SimpleData name="Note Type">0</SimpleData>
+		<SimpleData name="Shape Length">0.002026</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>109.584511071,-7.16838312799996 109.58459497,-7.16844069399997 109.584615792,-7.16844008199996 109.584568024,-7.16838496499997 109.584632327,-7.16835373299995 109.584650699,-7.16821410499995 109.584666621,-7.16827595699993 109.584650699,-7.16821410499995 109.584659272,-7.16818715899996 109.584692955,-7.16823308899995 109.584659272,-7.16818715899996 109.58451597,-7.1680089499999 109.584534342,-7.16800160099996 109.584551489,-7.16798996499995 109.584568637,-7.16797343 109.584587009,-7.16797526699997 109.584660497,-7.16801691099994 109.584675807,-7.16801691099994 109.584687443,-7.16803344599998 109.584666621,-7.16804936799997 109.5846409,-7.16805181799998 109.58461028,-7.16802609699994 109.584581497,-7.16801446099993 109.584563738,-7.16802242199998 109.584577823,-7.16803344599998 109.584603544,-7.16803650799994 109.584634164,-7.16814184099997 109.584673358,-7.16813143 109.584681319,-7.16811795699994 109.5847248,-7.16812224399996 109.584738885,-7.16811305799996 109.584732761,-7.16808733699997 109.584763381,-7.16803222099998 109.584782366,-7.16802181 109.584826459,-7.16801691099994 109.584857691,-7.16804691899995 109.584856466,-7.16807570199995 109.584850955,-7.16809591099997 109.584833195,-7.16809223599995 109.584814211,-7.16810142199995 109.584824009,-7.16812163199995 109.584809311,-7.1682104299999 109.584838707,-7.16824227499995 109.584855854,-7.16822941499993 109.58489464,-7.16822622799998</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Line_route_sab">
+		<SimpleData name="Created Date">10/26/2024 2:06:29 PM</SimpleData>
+		<SimpleData name="Created User">ACER</SimpleData>
+		<SimpleData name="Last Edited Date">10/26/2024 2:06:29 PM</SimpleData>
+		<SimpleData name="Last Edited User">ACER</SimpleData>
+		<SimpleData name="Note Type">0</SimpleData>
+		<SimpleData name="Shape Length">0.004473</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>109.581636073,-7.16696539599997 109.58324853,-7.16502903799994 109.581410751,-7.16569092099996</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Line_route_sab">
+		<SimpleData name="Created Date">10/26/2024 2:06:29 PM</SimpleData>
+		<SimpleData name="Created User">ACER</SimpleData>
+		<SimpleData name="Last Edited Date">10/26/2024 2:06:29 PM</SimpleData>
+		<SimpleData name="Last Edited User">ACER</SimpleData>
+		<SimpleData name="Note Type">0</SimpleData>
+		<SimpleData name="Shape Length">0.000906</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><LineString><coordinates>109.593523632,-7.16208571299995 109.594428924,-7.16204565599998</coordinates></LineString></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Line_route_sab">
 		<SimpleData name="Created Date">10/26/2024 2:06:29 PM</SimpleData>
 		<SimpleData name="Created User">ACER</SimpleData>
 		<SimpleData name="Last Edited Date">10/26/2024 2:06:29 PM</SimpleData>
