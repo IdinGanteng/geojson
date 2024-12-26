@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="lokasi_longsor" id="lokasi_longsor">
+	<SimpleField name="fid" type="float"></SimpleField>
+	<SimpleField name="NAMA" type="string"></SimpleField>
+	<SimpleField name="LOKASI" type="string"></SimpleField>
+	<SimpleField name="TAHUN" type="string"></SimpleField>
+</Schema>
+<Folder><name>lokasi_longsor</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">1</SimpleData>
+		<SimpleData name="NAMA">LONGSOR PASAR</SimpleData>
+		<SimpleData name="LOKASI">GODANG</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.580410003187,-7.16723223047733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">2</SimpleData>
+		<SimpleData name="NAMA">RUMAH PAK KALIRI</SimpleData>
+		<SimpleData name="LOKASI">DK GUNUNG ATAS</SimpleData>
+		<SimpleData name="TAHUN">2015</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.588380057401,-7.16829867555432</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">3</SimpleData>
+		<SimpleData name="NAMA">LONGSOR SAWAH</SimpleData>
+		<SimpleData name="LOKASI">SAWAH GUNUNG</SimpleData>
+		<SimpleData name="TAHUN">2016</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.594634596394,-7.15999258118989</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">4</SimpleData>
+		<SimpleData name="NAMA">LONGSOR SALURAN AIR</SimpleData>
+		<SimpleData name="LOKASI">DK SIJAMBU</SimpleData>
+		<SimpleData name="TAHUN">2017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.590449298595,-7.17397894549794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">5</SimpleData>
+		<SimpleData name="NAMA">RUMAH PAK SARYO</SimpleData>
+		<SimpleData name="LOKASI">DK GUNUNG ATAS</SimpleData>
+		<SimpleData name="TAHUN">2017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.58853574928,-7.16864121816767</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">6</SimpleData>
+		<SimpleData name="NAMA">LONGSOR SUNGAI SUPAN</SimpleData>
+		<SimpleData name="LOKASI">DK. GUNUNG ATAS</SimpleData>
+		<SimpleData name="TAHUN">2017</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.589666961049,-7.16845264624146</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">7</SimpleData>
+		<SimpleData name="NAMA">RUMAH IBU LATIN</SimpleData>
+		<SimpleData name="LOKASI">DK. GUNUNG ATAS</SimpleData>
+		<SimpleData name="TAHUN">2018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.588397743223,-7.16800946034476</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">8</SimpleData>
+		<SimpleData name="NAMA">TALUD RUMAH DASUKI</SimpleData>
+		<SimpleData name="LOKASI">DK. BESUKI</SimpleData>
+		<SimpleData name="TAHUN">2019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.589253863293,-7.17767132430173</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">9</SimpleData>
+		<SimpleData name="NAMA">RUMAH BPK. JANAH</SimpleData>
+		<SimpleData name="LOKASI">DK BESUKI</SimpleData>
+		<SimpleData name="TAHUN">2020</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.58935693899,-7.1777782762368</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">10</SimpleData>
+		<SimpleData name="NAMA">RUMAH IBU QORIAH</SimpleData>
+		<SimpleData name="LOKASI">DK SIJAMBU ATAS</SimpleData>
+		<SimpleData name="TAHUN">2021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.588238592461,-7.16977567375616</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">11</SimpleData>
+		<SimpleData name="NAMA">RUMAH BPK SOLIHIN</SimpleData>
+		<SimpleData name="LOKASI">DK SIJAMBU</SimpleData>
+		<SimpleData name="TAHUN">2021</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.589042498668,-7.17305374338644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">12</SimpleData>
+		<SimpleData name="NAMA">RUMAH BPK KAMIRI</SimpleData>
+		<SimpleData name="LOKASI">DK SABRANG</SimpleData>
+		<SimpleData name="TAHUN">2022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.586040327162,-7.16824665843032</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#lokasi_longsor">
+		<SimpleData name="fid">13</SimpleData>
+		<SimpleData name="NAMA">LONGSOR TEBING</SimpleData>
+		<SimpleData name="LOKASI">DK GODANG</SimpleData>
+		<SimpleData name="TAHUN">2024</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>109.578144127735,-7.16536699044425</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
